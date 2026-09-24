@@ -36,4 +36,4 @@ you want to avoid. The skill uses this only to RANK the issues your
 rubric accepts, never to change a verdict: fit cannot rescue an issue
 your rubric rejects, and cannot sink one it accepts. -->
 
-(I'm an Open Source Software (OSS) Contributor, and Software engineer focused on full-stack software engineering , infrastructure, and developer tooling, with interests in ultra low-latency systems and performance optimisation. I bring around 2 YOE in Software Engineering, and proven track record of leadership. Deeply interested in working with HTML CSS, Javascript, react, node.j, Java, Python. )
+(I'm an Open Source Software (OSS) Contributor, and Software engineer focused on full-stack software engineering , infrastructure, and developer tooling, with interests in ultra low-latency systems and performance optimisation. I would also be open to working on issues related to DevOps. I bring around 2 YOE in Software Engineering, and proven track record of leadership. Deeply interested in working with HTML CSS, Javascript, react, node.j, Java, Python. )
