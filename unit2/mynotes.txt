@@ -1,0 +1,3 @@
+Use Claude Plan Mode ( Industry works this way)
+RFCs and Design Docs 
+Be extremely precise and specific with claude 
